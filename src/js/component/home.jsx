@@ -23,7 +23,10 @@ const Home = () => {
 			buttonText="Click Here!"
 			/>
 			<Cards 
-			title = "This is my second card"
+			title = "A Random Location"
+			imageUrl="https://picsum.photos/200/300"
+			buttonUrl="https://www.merriam-webster.com/dictionary/random#:~:text=Synonyms%20of%20random-,1,done%2C%20or%20chosen%20at%20random"
+			buttonText="Click Here!"
 			/>
 			<Cards 
 			title = "This is my third card"

@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <div className="text-center">
       <NavBar />
-      <Jumbotron title="This is my Jumbotron" body="This is the body" />
+      <Jumbotron title="Jumbolicious Jumbotron" body="Pssstt... Valerie.. Click the buttons in nav.." />
       <div className="d-flex justify-content-center m-5 row-2">
         <div className="col-md-2 p-5">
           <Cards
